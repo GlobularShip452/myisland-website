@@ -1,2 +1,2 @@
-# myisland-website
+# bot
 Created with CodeSandbox
